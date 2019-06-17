@@ -18,5 +18,8 @@ public class Test {
 	public void	cc(){
 		System.out.println("aa");
 	}
+	public void	dd(){
+		System.out.println("dd");
+	}
 	
 }
