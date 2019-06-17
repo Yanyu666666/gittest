@@ -15,4 +15,8 @@ public class Test {
 	public void	bb(){
 		System.out.println("aa");
 	}
+	public void	cc(){
+		System.out.println("aa");
+	}
+	
 }
